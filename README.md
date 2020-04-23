@@ -18,3 +18,5 @@ During the update of using my spk, you will confront that Synology tell you that
 Notice!!! Please backup the gitlab first before any operation. I'm not responsible for any loss.
 This spk file is almost same as spk file you can download from Synology only db_converter.py is different.
 The original package that I used to modify is Docker-GitLab-AllinOne-x64-11.0.4-0053
+
+You can download the two files here: https://drive.google.com/drive/folders/1-bT5Sbnq3uOFU9JGivVsAiB8rwCmRpeK?usp=sharing
