@@ -7,7 +7,7 @@ After the checking, I find out that the failure is caused by the db_converter.py
 
 The dump from MySQL is fine but the sql file converted by the db_converter.py will have error.
 
-In my case, I have wrong symbol jsut look like "current_timestamp( ,".
+In my case, I have wrong symbol just look like "current_timestamp( ,".
 Hence, I resolve the problem by adding some code in db_converter.py and I don't change or delete the origin code in this py file.
 
 Be free to download the spk file and test if it helps to update the gitlab.
@@ -20,3 +20,5 @@ This spk file is almost same as spk file you can download from Synology only db_
 The original package that I used to modify is Docker-GitLab-AllinOne-x64-11.0.4-0053
 
 You can download the two files here: https://drive.google.com/drive/folders/1-bT5Sbnq3uOFU9JGivVsAiB8rwCmRpeK?usp=sharing
+
+I can't guarantee that my spk will help everyone to fix this problem but it solve mine. If have question, welcome to discuss.
