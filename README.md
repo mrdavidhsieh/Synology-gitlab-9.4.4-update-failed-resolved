@@ -19,6 +19,6 @@ Notice!!! Please backup the gitlab first before any operation. I'm not responsib
 This spk file is almost same as spk file you can download from Synology only db_converter.py is different.
 The original package that I used to modify is Docker-GitLab-AllinOne-x64-11.0.4-0053
 
-You can download the two files here: https://drive.google.com/drive/folders/1-bT5Sbnq3uOFU9JGivVsAiB8rwCmRpeK?usp=sharing
+You can find the files in this project.
 
 I can't guarantee that my spk will help everyone to fix this problem but it solve mine. If have question, welcome to discuss.
